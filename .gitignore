@@ -1,0 +1,8 @@
+bin
+cpp/CMakeFiles
+cpp/cmake_install.cmake
+cpp/CMakeCache.txt
+cpp/libhello-cpp.so
+cpp/Makefile
+material
+obj
